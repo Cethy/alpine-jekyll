@@ -62,7 +62,7 @@ In `watch` mode, the jekyll script will look for changes in the `INPUT_DIR` and 
 
 |Default|Options|
 |:---:|---|
-|`build`|`build`|`watch`|
+|`build`|`build`\|`watch`|
 
 
 ##### `OUTPUT_DIR`
